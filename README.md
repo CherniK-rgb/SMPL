@@ -1,2 +1,2 @@
 # SMPL
-Messenger on a socket
+Messenger on sockets
