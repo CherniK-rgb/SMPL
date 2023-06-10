@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/connect.png</file>
+        <file>img/enter.png</file>
+        <file>img/enter.tuch.png</file>
+        <file>img/fon1.jpg</file>
+        <file>img/fon3.jpg</file>
+        <file>img/connect1.png</file>
+        <file>img/enter.tuch1.png</file>
+        <file>img/help.jpg</file>
+        <file>img/help1.jpg</file>
+    </qresource>
+</RCC>
